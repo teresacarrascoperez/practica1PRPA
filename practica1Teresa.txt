@@ -1,0 +1,70 @@
+Script started on Sun Mar  6 22:11:07 2022
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc/practica1PRPA[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa practica1PRPA % [K[?2004hppython3 Practica1_Teresa.py[?2004l
+producer prod_1 produciendo
+producer prod_0 produciendo
+producer prod_2 produciendo
+producer prod_1 almacenado 0
+producer prod_1 produciendo
+producer prod_0 almacenado 0
+producer prod_0 produciendo
+producer prod_1 almacenado 1
+producer prod_1 produciendo
+producer prod_2 almacenado 0
+producer prod_2 produciendo
+producer prod_0 almacenado 1
+producer prod_0 produciendo
+producer prod_1 almacenado 2
+producer prod_1 produciendo
+consumer cons_0 desalmacenando
+producer prod_1 almacenado 3
+producer prod_1 produciendo
+consumer cons_0 consumiendo 0
+producer prod_2 almacenado 1
+producer prod_2 produciendo
+consumer cons_0 desalmacenando
+producer prod_1 almacenado 4
+producer prod_0 almacenado 2
+producer prod_0 produciendo
+producer prod_2 almacenado 2
+consumer cons_0 consumiendo 2
+producer prod_2 produciendo
+producer prod_0 almacenado 3
+producer prod_0 produciendo
+consumer cons_0 desalmacenando
+consumer cons_0 consumiendo 6
+producer prod_2 almacenado 3
+producer prod_2 produciendo
+consumer cons_0 desalmacenando
+consumer cons_0 consumiendo 8
+producer prod_0 almacenado 4
+consumer cons_0 desalmacenando
+consumer cons_0 consumiendo 11
+producer prod_2 almacenado 4
+consumer cons_0 desalmacenando
+consumer cons_0 consumiendo 12
+consumer cons_0 desalmacenando
+consumer cons_0 consumiendo 13
+consumer cons_0 desalmacenando
+consumer cons_0 consumiendo 13
+consumer cons_0 desalmacenando
+consumer cons_0 consumiendo 15
+consumer cons_0 desalmacenando
+consumer cons_0 consumiendo 15
+consumer cons_0 desalmacenando
+consumer cons_0 consumiendo 19
+consumer cons_0 desalmacenando
+consumer cons_0 consumiendo 20
+consumer cons_0 desalmacenando
+consumer cons_0 consumiendo 24
+consumer cons_0 desalmacenando
+consumer cons_0 consumiendo 26
+consumer cons_0 desalmacenando
+consumer cons_0 consumiendo 29
+[0, 2, 6, 8, 11, 12, 13, 13, 15, 15, 19, 20, 24, 26, 29]
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc/practica1PRPA[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa practica1PRPA % [K[?2004h[?2004l
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done on Sun Mar  6 22:11:30 2022
